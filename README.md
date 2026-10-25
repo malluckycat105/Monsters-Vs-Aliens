@@ -211,4 +211,4 @@ Monsters vs Aliens is offered as a full free version with all features and updat
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-25 13:00:23 UTC
+**Last updated:** 2026-10-25 17:20:00 UTC
